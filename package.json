@@ -1,0 +1,26 @@
+{
+  "name": "hey-quotey-web",
+  "version": "1.0.0",
+  "description": "placeholder site for heyquotey.app",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workingdevshero/hey-quotey-web.git"
+  },
+  "keywords": [
+    "quotey",
+    "buddy"
+  ],
+  "author": "@workingdevshero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workingdevshero/hey-quotey-web/issues"
+  },
+  "homepage": "https://github.com/workingdevshero/hey-quotey-web#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
