@@ -1,5 +1,5 @@
 {
-  "name": "hey-quotey-web",
+  "name": "fully-caffeinated-web",
   "version": "1.0.0",
   "description": "placeholder site for heyquotey.app",
   "main": "index.html",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/workingdevshero/hey-quotey-web.git"
+    "url": "git+https://github.com/workingdevshero/fully-caffeinated-web.git"
   },
   "keywords": [
     "quotey",
@@ -17,9 +17,9 @@
   "author": "@workingdevshero",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/workingdevshero/hey-quotey-web/issues"
+    "url": "https://github.com/workingdevshero/fully-caffeinated-web/issues"
   },
-  "homepage": "https://github.com/workingdevshero/hey-quotey-web#readme",
+  "homepage": "https://github.com/workingdevshero/fully-caffeinated-web#readme",
   "devDependencies": {
     "http-server": "^14.1.1"
   }
